@@ -46,4 +46,4 @@ Make sure **Visual Studio Code (VS Code)** is installed on your computer and you
    ```bash
    brushctrl
 4. This page will pop up:
-   
+   ![UI For BrushControl](<./Screenshot 2026-11-09 155131.png>)
