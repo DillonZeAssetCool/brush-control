@@ -39,9 +39,11 @@ Make sure **Visual Studio Code (VS Code)** is installed on your computer and you
 ---
 
 ### Step 3: Open the Terminal & Launch the System
-1. In VS Code, open a new terminal window by clicking **Terminal** > **New Terminal** from the top menu (or press `Ctrl + ` ` / `Cmd + ` `).
+1. In VS Code, open a new terminal window by clicking **Terminal > New Terminal** from the top menu (or press `Ctrl + ~` on Windows/Linux or `Cmd + ~` on macOS).
 2. Check the command prompt text to confirm you are connected to the Raspberry Pi.
    * *Verification:* You should see a green prompt starting with `user@Naboo:~ $` (or your Raspberry Pi's username).
 3. Type the start command and press **Enter**:
    ```bash
    brushctrl
+4. This page will pop up:
+   
