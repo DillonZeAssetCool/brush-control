@@ -38,6 +38,14 @@ Make sure **Visual Studio Code (VS Code)** is installed on your computer and you
    
 ---
 
+### Safety Check Before Launching ⚠️
+Before starting the software, visually inspect the physical machine:
+* **Clear the Build Plate:** Remove all tools, loose wires, containers, or debris from the Artillery 3D bed.
+* **Inspect the Toolhead:** Ensure the brush mechanism is securely mounted and can move freely in all axes ($X$, $Y$, $Z$) without snagging cables.
+* **Emergency Path:** Ensure you have direct access to the machine's power switch or power cord in case a manual shutdown is required.
+
+---
+
 ### Step 3: Open the Terminal & Launch the System
 1. In VS Code, open a new terminal window by clicking **Terminal > New Terminal** from the top menu (or press `Ctrl + ~` on Windows/Linux or `Cmd + ~` on macOS).
 2. Check the command prompt text to confirm you are connected to the Raspberry Pi.
