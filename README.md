@@ -25,10 +25,13 @@ When the application starts, all control buttons are temporarily disabled while 
 1. **Homing:** The machine automatically moves to its standard starting (home) position.
 2. **Load Cell Initialization:** The load cell sensor powers on and resets its reading to zero (tares).
 3. **System Ready:** Once both operations are complete, the control buttons unlock and become interactive.
+<div align="center">
+🎥 System Startup Demonstration
+
+https://github.com/user-attachments/assets/3d026949-8d5a-4528-a965-3cd7e2757e7f
+</div>
 
 > **Note:** Wait until the initialization sequence finishes before attempting to operate the machine.
-
----
 
 ## 3. Brush Depth Calibration
 
@@ -52,11 +55,22 @@ Select one of the calibration buttons located at the top of the application:
 - `CAL AREA 3`
 
 The brush will automatically move to the selected area and pause just above the plate surface.
+<div align="center">
+🎥 Calibration Position Demonstration
+  
+https://github.com/user-attachments/assets/9695f879-1ef9-424b-81c0-fe44d8b26cf0  
+</div>
 
 **Step 3: Adjust Brush Height**
 
 - Use the height control buttons to raise or lower the brush.
 - Each adjustment changes the brush height by **1 mm**.
+
+<div align="center">
+🎥 Height Adjustment Demonstration
+  
+https://github.com/user-attachments/assets/ae929fbd-8219-493d-af9d-910ad8df82a2
+</div>
 
 **Step 4: Save or Cancel Calibration**
 
@@ -64,6 +78,12 @@ The brush will automatically move to the selected area and pause just above the 
 |---|---|---|
 | Save calibration | `Save Height -> Standby Mode` | Saves the selected brush height and returns to standby mode |
 | Cancel calibration | `Cancel -> Standby Mode` | Cancels the adjustment and returns to standby mode |
+
+<div align="center">
+🎥 Standby Position Demonstration
+  
+https://github.com/user-attachments/assets/63992ccd-48ed-43d0-a3ab-eb23785399d5
+</div>
 
 **Step 5: Load the Test Sample**
 
@@ -115,6 +135,12 @@ To modify the speed:
 3. Click the button corresponding to the target cleaning area.
 4. The machine will begin the brushing process.
 
+<div align="center">
+🎥 Cleaning Demonstration
+  
+https://github.com/user-attachments/assets/4396b5c1-5490-4382-a619-567af6eb03f2
+</div>
+
 ---
 
 ## 5. Unloading the Test Sample
@@ -125,6 +151,12 @@ After the cleaning cycle is complete:
 2. Click `Ready for Pickup`.
 3. Wait for the machine to move the plate clear of the brushing system.
 4. Remove the test sample from the fixture.
+
+<div align="center">
+🎥 Pickup Position Demonstration
+
+https://github.com/user-attachments/assets/3e7afa92-9ff5-4dcf-b1c8-63b87f18830f
+</div>
 
 > **Important:** Do not attempt to remove the sample while the machine is moving.
 
@@ -208,4 +240,4 @@ Once the issue has been resolved and the machine is safe to operate:
 
 ## 10. Technical Support
 
-If unexpected machine behavior occurs or an issue cannot be resolved using the troubleshooting instructions, stop operation and contact an engineer for assistance.
+If unexpected machine behavior occurs or an issue cannot be resolved using the troubleshooting instructions, stop operation and ask an engineer for assistance.
