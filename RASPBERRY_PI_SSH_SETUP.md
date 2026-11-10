@@ -55,3 +55,7 @@ Before starting the software, visually inspect the physical machine:
    brushctrl
 4. This page will pop up:
    ![UI For BrushControl](<./Screenshot 2026-11-09 155131.png>)
+
+
+## Documentation
+- [Brush Cleaning Machine User Guide](BRUSH_CONTROL_GUIDE.md)
